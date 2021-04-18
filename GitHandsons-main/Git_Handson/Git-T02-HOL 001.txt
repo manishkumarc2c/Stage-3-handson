@@ -81,5 +81,5 @@ Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 252 bytes | 42.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/prasaddharani/GitDemo.git
+To https://github.com/manishkumarc2c/Stage-3-handson
  * [new branch]      master -> master
