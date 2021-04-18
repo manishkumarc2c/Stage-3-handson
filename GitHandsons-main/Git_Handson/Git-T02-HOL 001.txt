@@ -73,7 +73,7 @@ On branch master
 nothing to commit, working tree clean
 
 CTS+894093@LTIN280843 MINGW64 /c/git-handsons (master)
-$ git remote add origin https://github.com/prasaddharani/GitDemo.git
+$ git remote add origin https://github.com/manishkumarc2c/Stage-3-handson
 
 CTS+894093@LTIN280843 MINGW64 /c/git-handsons (master)
 $ git push origin master
